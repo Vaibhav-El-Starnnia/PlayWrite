@@ -1,2 +1,0 @@
-# Fullstack MERN Blogging Website
-
